@@ -1,0 +1,11 @@
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.exe
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.deps.json
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.dll
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.pdb
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csprojAssemblyReference.cache
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.dll
+F:\Visual Studio Training\GeekBrains C# One\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.pdb
