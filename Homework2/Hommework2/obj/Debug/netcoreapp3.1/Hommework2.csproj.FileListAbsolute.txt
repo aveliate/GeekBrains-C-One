@@ -1,0 +1,11 @@
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\bin\Debug\netcoreapp3.1\Hommework2.exe
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\bin\Debug\netcoreapp3.1\Hommework2.deps.json
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\bin\Debug\netcoreapp3.1\Hommework2.runtimeconfig.json
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\bin\Debug\netcoreapp3.1\Hommework2.runtimeconfig.dev.json
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\bin\Debug\netcoreapp3.1\Hommework2.dll
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\bin\Debug\netcoreapp3.1\Hommework2.pdb
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\obj\Debug\netcoreapp3.1\Hommework2.csprojAssemblyReference.cache
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\obj\Debug\netcoreapp3.1\Hommework2.AssemblyInfoInputs.cache
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\obj\Debug\netcoreapp3.1\Hommework2.AssemblyInfo.cs
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\obj\Debug\netcoreapp3.1\Hommework2.dll
+F:\Visual Studio Training\GeekBrains C# One\Homework2\Hommework2\obj\Debug\netcoreapp3.1\Hommework2.pdb
