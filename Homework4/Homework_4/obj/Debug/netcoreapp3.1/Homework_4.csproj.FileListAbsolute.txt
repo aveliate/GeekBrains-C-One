@@ -1,0 +1,11 @@
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.exe
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.deps.json
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.runtimeconfig.json
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.runtimeconfig.dev.json
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.dll
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\bin\Debug\netcoreapp3.1\Homework_4.pdb
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.csprojAssemblyReference.cache
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.AssemblyInfoInputs.cache
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.AssemblyInfo.cs
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.dll
+F:\Visual Studio Training\GeekBrains C# One\Homework4\Homework_4\obj\Debug\netcoreapp3.1\Homework_4.pdb
